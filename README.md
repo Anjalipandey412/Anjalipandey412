@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anjalipandey412
-- 👀 I’m interested in frontend
+- 👀 I’m interested in  Frontend.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on opensource..
+- 💞️ I’m looking to collaborate on  Frontend Development.
 - 📫 How to reach me pandeyanjali84398@gmail.com
 
 <!---
